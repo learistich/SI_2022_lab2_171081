@@ -2,4 +2,5 @@
 Леа Ристиќ 171081
 
 2. Control Flow Graph 
-![](images/cfg.png)
+![cfg](https://user-images.githubusercontent.com/101598110/171856631-f82d934e-ccfc-4a1a-b691-ed7acb6193c6.png)
+
